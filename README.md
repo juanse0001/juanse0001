@@ -1,6 +1,6 @@
 # 👨‍💻 Bienvenido a mi Perfil de GitHub 👋
 
-¡Hola! Soy **[Juan Sebastian Ordoñez Sierra]**, un apasionado desarrollador de software en constante aprendizaje y evolución. Me encanta explorar nuevas tecnologías y aplicar soluciones innovadoras a problemas complejos.
+¡Hola! Soy **Juan Sebastian Ordoñez Sierra**, un apasionado desarrollador de software en constante aprendizaje y evolución. Me encanta explorar nuevas tecnologías y aplicar soluciones innovadoras a problemas complejos.
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 🚀 Proyectos Destacados
 
-- [**Software para la Gestion de l agencia de investigacion PTC **](https://github.com/juanse0001/PROYECTO-PTC): Breve descripción del proyecto.
+- [**Proyecto PTC **](https://github.com/juanse0001/PROYECTO-PTC): Software para la optimizacion de la gestión interna de la agencoia de investigación privada PTC.
 
 ---
 
