@@ -39,7 +39,7 @@
 
 ## 🚀 Proyectos Destacados
 
-- [**Proyecto PTC **](https://github.com/YousyCamila/PROYECTO-PTC): Software para la optimizacion de la gestión interna de la agencoia de investigación privada PTC.
+- [Proyecto-PTC](https://github.com/YousyCamila/PROYECTO-PTC): Software para la optimizacion de la gestión interna de la agencoia de investigación privada PTC.
 
 ---
 
