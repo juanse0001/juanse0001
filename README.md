@@ -41,6 +41,7 @@
 ## 🚀 Proyectos Destacados
 
 - [Proyecto-PTC](https://github.com/YousyCamila/PROYECTO-PTC): Software para la optimizacion de la gestión interna de la agencia de investigación privada PTC.
+- [Gestion De Pedidos](https://github.com/juanse0001/lab01NCapas): Software para la optimizacion de la gestión interna de la agencia de investigación privada PTC.
 
 ---
 
